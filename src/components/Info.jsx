@@ -23,7 +23,7 @@ export default function Info() {
             />
           </svg>
           <a href="mailto: ikennaenyioma55@gmail.com"></a>
-          Ikenna
+          Email
         </button>
         <button className="linkedin">
           <svg
