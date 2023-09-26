@@ -6,8 +6,7 @@
 .app {
   background: #1a1b21;
   max-width: 317px;
-  position:absolute;
-  left:50%;
+  align-self:center;
   height: 650px;
   border-radius: 10px;
 }
