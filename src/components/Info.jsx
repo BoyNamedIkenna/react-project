@@ -22,7 +22,8 @@ export default function Info() {
               fill="#1E1F26"
             />
           </svg>
-          <a href="mailto: ikennaenyioma55@gmail.com">Ikenna</a>
+          <a href="mailto: ikennaenyioma55@gmail.com"></a>
+          Ikenna
         </button>
         <button className="linkedin">
           <svg
